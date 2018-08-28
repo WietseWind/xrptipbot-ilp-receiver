@@ -4,6 +4,7 @@ Sample code. Running at eg. [https://twitter.xrptipbot.com/WietseWind](https://t
 
 1. Make sure you are running `moneyd`
 2. Make sure you have configured `moneyd` to use XRP on the live net.
-3. Run the repo
+3. Install dependencies: `npm install`
+4. Run, `node index.js`
 
 Sample NGINX reverse proxy config in `nginx.sample.conf`
