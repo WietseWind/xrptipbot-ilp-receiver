@@ -1,0 +1,13 @@
+{
+  "name": "ilp-receiver",
+  "version": "0.0.9",
+  "description": "ILP Receiver for the XRPTipBot (xrptipbot.com)",
+  "author": "Wietse Wind <mail@wietse.com>",
+  "dependencies": {
+    "base64url": "^3.0.0",
+    "ilp-plugin": "^3.1.1",
+    "ilp-protocol-stream": "^1.4.2",
+    "koa": "^2.5.2",
+    "node-fetch": "^2.2.0"
+  }
+}
