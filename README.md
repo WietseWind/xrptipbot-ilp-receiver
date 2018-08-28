@@ -8,3 +8,7 @@ Sample code. Running at eg. [https://twitter.xrptipbot.com/WietseWind](https://t
 4. Run `node index.js`
 
 Sample NGINX reverse proxy config in [nginx.sample.conf](https://github.com/WietseWind/xrptipbot-ilp-receiver/blob/master/nginx.sample.conf)
+
+--- 
+
+Use [https://github.com/WietseWind/coil-stream-donation](https://github.com/WietseWind/coil-stream-donation) if you want to allow Coil.com donations to be streamed to your payment pointer.
